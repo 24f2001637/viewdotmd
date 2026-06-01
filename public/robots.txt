@@ -7,7 +7,7 @@ Disallow: /.env
 Disallow: /node_modules/
 
 # Sitemap location
-Sitemap: https://viewdotmd.com/sitemap.xml
+Sitemap: https://viewdotmd.vercel.app/sitemap.xml
 
 # Crawl delay for polite bots
 Crawl-delay: 1

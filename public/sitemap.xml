@@ -6,7 +6,7 @@
 
   <!-- Primary page | highest priority -->
   <url>
-    <loc>https://viewdotmd.com/</loc>
+    <loc>https://viewdotmd.vercel.app/</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
