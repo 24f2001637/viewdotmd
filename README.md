@@ -2,7 +2,6 @@
 
 > Free online Markdown editor with real-time preview, GFM, KaTeX math, syntax highlighting, and one-click PDF export.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/viewdotmd)
 
 ---
 
