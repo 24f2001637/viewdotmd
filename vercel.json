@@ -1,13 +1,13 @@
 {
   "headers": [
     {
-      "source": "/assets/(.*)",
+      "source": "/assets/:path*",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
       ]
     },
     {
-      "source": "/(.*\\.(png|svg|ico|webmanifest|txt|xml|css|js))",
+      "source": "/:path*.(png|svg|ico|webmanifest|txt|xml|css|js)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=86400" }
       ]
