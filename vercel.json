@@ -23,10 +23,10 @@
       ]
     }
   ],
+  "cleanUrls": true,
   "rewrites": [
-    {
-      "source": "/((?!.*\\.(css|js|png|svg|ico|webmanifest|txt|xml|html)$).*)",
-      "destination": "/index.html"
-    }
+    { "source": "/googled1d138b229293528", "destination": "/googled1d138b229293528.html" },
+    { "source": "/googled1d138b229293528.html", "destination": "/googled1d138b229293528.html" },
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
